@@ -136,7 +136,7 @@ const hu = {
   "userText": "Kattints ide a szerkesztéshez",
 
   // Greeting
-  "greeting": {
+  greeting: {
     "morning": "Jó reggelt!",
     "afternoon": "Jó napot!",
     "evening": "Jó estét!"
